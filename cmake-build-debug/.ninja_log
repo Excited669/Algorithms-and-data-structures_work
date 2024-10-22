@@ -1,0 +1,5 @@
+# ninja log v6
+1	84	1729583327647120459	lib_easy_example/CMakeFiles/EasyExample.dir/easy_example.cpp.o	3f33ef74506242c7
+85	116	1729583327730533820	lib_easy_example/libEasyExample.a	1019cdec032e4414
+1	324	1729583327647387376	main/CMakeFiles/Application.dir/main.cpp.o	8bab6be2cd7c09ab
+325	353	1729583327970792062	main/Application	4f6644902981024f
