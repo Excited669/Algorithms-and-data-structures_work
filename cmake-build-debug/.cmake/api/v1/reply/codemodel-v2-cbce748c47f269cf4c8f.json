@@ -11,7 +11,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
@@ -52,6 +53,21 @@
 					]
 				},
 				{
+					"build" : "lib_pair",
+					"jsonFile" : "directory-lib_pair-Debug-935e97605483f0bf5b8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib_pair",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
 					"build" : "gtest",
 					"jsonFile" : "directory-gtest-Debug-81450dc05944d2d7e402.json",
 					"minimumCMakeVersion" : 
@@ -63,7 +79,7 @@
 					"source" : "gtest",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -78,7 +94,7 @@
 					"source" : "tests",
 					"targetIndexes" : 
 					[
-						2
+						3
 					]
 				}
 			],
@@ -92,7 +108,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					],
 					"name" : "Algorithms-and-Data-Structures",
 					"targetIndexes" : 
@@ -100,7 +117,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -121,14 +139,21 @@
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 4,
+					"directoryIndex" : 3,
+					"id" : "Pair::@7ede1e7a413033da4fbe",
+					"jsonFile" : "target-Pair-Debug-4c604e622ed405f54c43.json",
+					"name" : "Pair",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
 					"id" : "Tests::@a44f0ac069e85531cdee",
-					"jsonFile" : "target-Tests-Debug-8c04424c9016bba43c13.json",
+					"jsonFile" : "target-Tests-Debug-0bb11e1a14f2978b158a.json",
 					"name" : "Tests",
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 3,
+					"directoryIndex" : 4,
 					"id" : "gtest::@0af4add9fe94340e763e",
 					"jsonFile" : "target-gtest-Debug-9eaf241dca01d597c98b.json",
 					"name" : "gtest",

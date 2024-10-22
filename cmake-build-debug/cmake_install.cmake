@@ -41,6 +41,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/Users/vasilijperaskin/Documents/Repositories/Algorithms-and-Data-Structures-main/cmake-build-debug/lib_easy_example/cmake_install.cmake")
   include("/Users/vasilijperaskin/Documents/Repositories/Algorithms-and-Data-Structures-main/cmake-build-debug/main/cmake_install.cmake")
+  include("/Users/vasilijperaskin/Documents/Repositories/Algorithms-and-Data-Structures-main/cmake-build-debug/lib_pair/cmake_install.cmake")
   include("/Users/vasilijperaskin/Documents/Repositories/Algorithms-and-Data-Structures-main/cmake-build-debug/gtest/cmake_install.cmake")
   include("/Users/vasilijperaskin/Documents/Repositories/Algorithms-and-Data-Structures-main/cmake-build-debug/tests/cmake_install.cmake")
 
